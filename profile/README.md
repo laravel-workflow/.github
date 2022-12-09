@@ -4,7 +4,7 @@
 
 Laravel Workflow can be used to automate and manage complex processes, such as financial transactions, data analysis, data pipelines, microservices, job tracking, user signup flows and other business processes. By using Laravel Workflow, developers can break down large, complex processes into smaller, modular units that can be easily maintained and updated.
 
-Some key features and benefits of Laravel Workflow include:
+Some key features and benefits of [Laravel Workflow](https://github.com/laravel-workflow/laravel-workflow) include:
 
 - Support for defining workflows and activities using simple, declarative PHP classes.
 - Tools for starting, monitoring, and managing workflows, including support for queuing and parallel execution.
