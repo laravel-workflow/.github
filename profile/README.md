@@ -12,4 +12,4 @@ Some key features and benefits of [Workflow](https://github.com/laravel-workflow
 - Integration with Laravel's queue and event systems, allowing workflows to be executed asynchronously on worker servers.
 - Extensive documentation and a growing community of developers who use and contribute to Workflow.
 
-<sub><sup>"Laravel" is a registered trademark of Taylor Otwell. This project is not affiliated, associated, endorsed, or sponsored by Taylor Otwell, nor has it been reviewed, tested, or certified by Taylor Otwell. The use of the trademark "Laravel" is for informational and descriptive purposes only. Laravel Workflow is not officially related to the Laravel trademark or Taylor Otwell.</sup></sub>
+<sub><sup>"Laravel" is a registered trademark of Taylor Otwell. This project is not affiliated, associated, endorsed, or sponsored by Taylor Otwell, nor has it been reviewed, tested, or certified by Taylor Otwell. The use of the trademark "Laravel" is for informational and descriptive purposes only. Workflow is not officially related to the Laravel trademark or Taylor Otwell.</sup></sub>
